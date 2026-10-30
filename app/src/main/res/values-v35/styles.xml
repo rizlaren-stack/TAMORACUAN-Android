@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TamoraTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorAccent">#D4A94C</item>
+        <item name="android:statusBarColor">#0F0C0F</item>
+        <item name="android:navigationBarColor">#0F0C0F</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>
